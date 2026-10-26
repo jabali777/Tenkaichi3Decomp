@@ -1,0 +1,11 @@
+/Tenkaichi3Decomp/
+/performance-diagnostics/
+/performance-diagnostics.txt
+/optimization/pruebas/
+/dist/
+*.so
+*.so.*
+*.o
+*.bak
+__pycache__/
+*.py[cod]
